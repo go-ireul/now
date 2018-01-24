@@ -1,8 +1,8 @@
 // Package now is a time toolkit for golang.
 //
-// More details README here: https://github.com/jinzhu/now
+// More details README here: https://ireul.com/now
 //
-//  import "github.com/jinzhu/now"
+//  import "ireul.com/now"
 //
 //  now.BeginningOfMinute() // 2013-11-18 17:51:00 Mon
 //  now.BeginningOfDay()    // 2013-11-18 00:00:00 Mon
